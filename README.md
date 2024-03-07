@@ -1,2 +1,3 @@
 # apnacollege
-This is my 1st demo Repository
+This is my first demo Repository
+Author - Md. Zobayer Chowdhury

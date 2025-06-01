@@ -1,4 +1,4 @@
-# apnacollege
-This is my first demo Repository.
+
+GUB python Repository.
 <br>
 Author - Md. Zobayer Chowdhury
